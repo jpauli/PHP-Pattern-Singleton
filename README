@@ -1,0 +1,5 @@
+This project demonstrates the use of a Singleton pattern in modern PHP programming
+
+This project is aimed for PHP training sessions and is not designed to be used as a production code as-is.
+
+PHP >= 8.1 needed
